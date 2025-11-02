@@ -1,8 +1,9 @@
-# 🏥 新規依頼に関するデータ分析 — Data Analysis Tool for Home-Visit Nursing
+# ExcelVBA🏥 新規依頼に関するデータ分析 — Data Analysis Tool for Home-Visit Nursing
+
 
 ## 📖 概要
 本ツールは、**訪問看護ステーションの経営企画部門**で実際に使用された、  
-新規依頼データの可視化・分析用Excelマクロブックです。  
+新規依頼データの可視化・分析用ExcelVBAブックです。  
 
 外部機関（病院・クリニック・ケアマネージャー等）からの訪問依頼情報を  
 自動で整理・仕分け・集計し、  
