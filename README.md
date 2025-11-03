@@ -1,3 +1,12 @@
+# Visit-Request-Data-Analysis
+
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Excel Automation](https://img.shields.io/badge/-Excel%20Automation-217346?logo=microsoft-excel&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-2196F3)
+![Portfolio](https://img.shields.io/badge/-Portfolio-black)
+
+訪問依頼データ（Excel/CSV）をPythonで解析し、依頼件数・日程・担当者別に自動集計する分析ツール。
+
 （ExcelVBA）
 #🏥 新規依頼に関するデータ分析 — Data Analysis Tool for Home-Visit Nursing
 
