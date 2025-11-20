@@ -6,6 +6,7 @@
 ![Portfolio](https://img.shields.io/badge/-Portfolio-black)
 
 訪問依頼データ（Excel/CSV）をPythonで解析し、依頼件数・日程・担当者別に自動集計する分析ツール。
+※ファイル内の全ての個人情報等は全て偽名です。
 
 （ExcelVBA）
 #🏥 新規依頼に関するデータ分析 — Data Analysis Tool for Home-Visit Nursing
